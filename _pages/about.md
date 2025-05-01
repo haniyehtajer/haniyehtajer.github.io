@@ -13,7 +13,7 @@ Research
 ======
 I do N-body simulations of late-stage planet formation, where erosive collisions between rocky bodies happen, leading to fragmentation and change in their composition. I am specially interested in understanding Mercury and Exo-Mercuries formation. To read more about this research checkout [this webpage!](haniyehtajer.github.io/research/) 
 
-My other interests include planetary models and exoplanet compositions, radius gap, exo-Mercury detections, etc. 
+My other interests include planetary models and exoplanet compositions, radius gap, exo-Mercury detections.  
 
 Biography
 ====

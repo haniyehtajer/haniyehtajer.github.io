@@ -11,54 +11,57 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Earth and Planetary Sciences, The Ohio State University, Expected Graduation: 2029
+* B.Sc. in Mechanical Engineering, Minor in Philosophy, Sharif University of Technology, 2023
 
-Work experience
+Awards & Honors
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* LSST Discovery Alliance Data Science Fellowship, *2025-present*
+* Graduate Student Fellowship, The Ohio State University, *2023*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Experience
+======
+* 2023–Present: Graduate Student, The Ohio State University
+  * *N-body Simulation of Late Stages of Planet Formation*
+    * Studying collisions between bodies in the protoplanetary disk, leading to the formation of rocky planets
+    * Simulating different collision outcomes including fragmentation, partial erosion, and partial accretion
+    * Investigating possible planet composition and structure as a result of giant impacts in the disk, especially in the context of high-density planets (Exo-Mercuries)
+  * *Small Planets Demographics*
+    * Making a comprehensive list of highly dense and Iron-rich planets by comparing them to models of rocky Earth-like planets (e.g. ExoPlex) with various core-mass fractions and compositions
+    * Using archival data and exoplanet fitting tools such as EXOFASTv2 to obtain best mass and radius measurements
+* 2021–2023: Undergraduate Researcher, Sharif University of Technology
+  * *Simulation of two-phase fluid flow in Oscillating Water Columns with ANSYS FLUENT*
+    * Numerical Simulation of air and water flow in Oscillating Water Columns, which are a type of wave energy converter. Investigated the different column geometry affecting the efficiency of OWCs.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Teaching Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2024–Present: Graduate Teaching Assistant, The Ohio State University
+    * Lecturer for the general education course, Intro to Earth Science
 
-Publications
+Service and Leadership
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* 2025-present: Representative of School of Earth Sciences at the Sloan Center for Systemic Change Graduate Advisory Group
+* 2023–2024: Member of Diversity, Equity, and Inclusion Committee, School of Earth Science, The Ohio State University
+* 2020-2022: Director of *Yarigaran*, Sharif University Of Technology
+
+Technical Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* **Programming language:** Python, C, C++, Unix, MATLAB, FORTRAN
+<!-- * **Other software:** ANSYS Mechanical, ANSYS Fluent, Solidworks, Adobe Photoshop -->
+
+Languages
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* **Farsi:** Native
+* **English:** Proficient
+* **French:** Intermediate
+
+Certificates
 ======
-* Currently signed in to 43 different slack teams
+* **Code/Astro 2024:** Certificate of Completion
+* **2024 Sagan Exoplanet Summer Workshop:** Advances in Direct Imaging: From Young Jupiters to Habitable Earths
+
+References
+======
+Dr. Ji Wang \\
+Associate Professor, Department of Astronomy, The Ohio State University \\
+[wang.12220@osu.edu](mailto:wang.12220@osu.edu)
