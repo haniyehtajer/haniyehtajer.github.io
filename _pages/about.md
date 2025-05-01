@@ -11,7 +11,7 @@ I'm a graduate student at the Ohio State University, a member of the exoplanets 
 
 Research
 ======
-I do N-body simulations of late-stage planet formation, where erosive collisions between rocky bodies happen, leading to fragmentation and change in their composition. I am specially interested in understanding Mercury and Exo-Mercuries formation. To read more about this research checkout [this webpage!](haniyehtajer.github.io/research/) 
+I do N-body simulations of late-stage planet formation, where erosive collisions between rocky bodies happen, leading to fragmentation and change in their composition. I am specially interested in understanding Mercury and Exo-Mercuries formation. To read more about this research checkout [this webpage!](https://haniyehtajer.github.io/research/) 
 
 My other interests include planetary models and exoplanet compositions, radius gap, exo-Mercury detections.  
 
