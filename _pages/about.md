@@ -17,4 +17,6 @@ My other interests include planetary models, exoplanet compositions, the radius 
 
 Biography
 ====
-I graduated with a degree in Mechanical Engineering in 2023, with a minor in Philosophy, from Sharif University of Technology in Tehran, Iran. I made a huge leap into planetary science by joining the Earth Science PhD program in the Fall of 2023. I began working with the exoplanet research group at The Ohio State University, advised by Dr. Ji Wang. In my free time, I mostly climb rocks (and plastic holds), but I also enjoy backpacking, hiking, reading, watching movies, and spending time with my friends.
+I graduated with a degree in Mechanical Engineering in 2023, with a minor in Philosophy, from Sharif University of Technology in Tehran, Iran. I made a huge leap into planetary science by joining the Earth Science PhD program in the Fall of 2023. I began working with the exoplanet research group at The Ohio State University, advised by Dr. Ji Wang. I am continuing my graduate studies at the Astronomy department at the Ohio State University starting in the Fall of 2025.
+
+In my free time, I mostly climb rocks (and plastic holds), but I also enjoy backpacking, hiking, reading, watching movies, and spending time with my friends.
