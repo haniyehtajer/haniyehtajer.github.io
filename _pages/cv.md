@@ -22,42 +22,52 @@ Awards & Honors
 Publications
 ======
 * **Tajer, H.**, Wang, J., *et al.* (2025). “Forging Iron Hearts: Exploring Pathways to Form Mercury-like Planets via N-body Simulations.” *In prep.*
-* Lu, T., **Tajer, H.**, Hernandez, D. M., Rein, H., Liu, Y., Rice, M. (2025).  
+* **Tajer, H.**, Rein, H., Lu, T., *et al.* (2025). “Collisional Fragmentation Module in REBOUNDx” *In prep.*
+* Lu, T., **Tajer, H.**, Hernandez, D. M., *et al.* (2025).  
   “Collisional Fragmentation Support in TRACE.”  
-  *arXiv preprint* [arXiv:2505.04399](https://arxiv.org/abs/2505.04399)
+  *Research Notes of the American Astronomical Society*, **9**(5), 110.  
+  [https://doi.org/10.3847/2515-5172/add525](https://doi.org/10.3847/2515-5172/add525)
+
 
 Research Experience
 ======
 * 2023–Present: Graduate Student, The Ohio State University
-  * *Studying galactic chemical evolution through Mangenese abundances* 
-    * Modeling galactic chemical evolution with a 2-process model based on TypeIa and Core Collapse Supernovae enrichments
-    * Using metallicity dependant yields for Mangenese to model its abundances
-    * Investigating a model for two distinct populations of white dwarf progenitors for Mn production
+  * *Studying galactic chemical evolution through manganese abundances* 
+    * Modeling galactic chemical evolution with a two-process model based on Type Ia and core-collapse supernova enrichments
+    * Using metallicity-dependent yields for manganese to model its abundances
+    * Investigating a model involving two distinct populations of white dwarf progenitors for Mn production
 
-  * *Studying Formation of Iron-rich, Mercury-like planets via N-body Simulations*
+  * *Studying the formation of iron-rich, Mercury-like planets via N-body simulations*
     * Mercury has a core mass fraction (CMF) of nearly 0.7, more than double that of the Earth (~0.3). 
-    * Exoplanetary counterparts to Mercury exibit extremely high densities, and their origins are unknown.
-    * This project aimed at studying different formation pathways of Mercury-like planets, focusing on late stage planet formation and collisional fragmentation.
+    * Exoplanetary counterparts to Mercury exhibit extremely high densities, and their origins remain unknown
+    * This project aims to study different formation pathways for Mercury-like planets, focusing on late-stage planet formation and collisional fragmentation
 
   * *REBOUNDX Collisional Fragmentation Module*
-    * Studying collisions between bodies in the protoplanetary disk, leading to the formation of rocky planets
-    * Simulating different collision outcomes including fragmentation, partial erosion, and partial accretion
-    * Investigating possible planet composition and structure as a result of giant impacts in the disk, especially in the context of high-density planets (Exo-Mercuries)
-
+    * Developing a collision prescription in the open-source package [REBOUNDx](https://github.com/dtamayo/reboundx), an extension to the N-body code [REBOUND](https://github.com/hannorein/rebound)
+    * This module accounts for various collision outcomes, such as fragmentation and hit-and-run events
+<!--
   * *Small Planets Demographics*
     * Making a comprehensive list of highly dense and Iron-rich planets by comparing them to models of rocky Earth-like planets (e.g. ExoPlex) with various core-mass fractions and compositions
     * Using archival data and exoplanet fitting tools such as EXOFASTv2 to obtain best mass and radius measurements
 * 2021–2023: Undergraduate Researcher, Sharif University of Technology
   * *Simulation of two-phase fluid flow in Oscillating Water Columns with ANSYS FLUENT*
     * Numerical Simulation of air and water flow in Oscillating Water Columns, which are a type of wave energy converter. Investigated the different column geometry affecting the efficiency of OWCs.
+-->
+
+Oral Presentations and Talks
+=====
+* 2025:  Great Lakes Exoplanet Area Meeting (GLEAM), University of Wisconsin-Madison
+    * How Did Mercury Get Its Big Iron Heart?
 
 Teaching Experience
 ======
+* 2025: Teaching Assistant for [Code/Astro 2025](https://semaphorep.github.io/codeastro/)
 * 2024–Present: Graduate Teaching Assistant, The Ohio State University
-    * Lecturer for the general education course, Intro to Earth Science
+    * Teaching a general education course, Intro to Earth Sciences
 
 Service and Leadership
 ======
+* 2025: Public Planetarium Show on [Exoplanets](https://planetarium.osu.edu/events/exoplanet-show-october-23-2025), Arne Slettebak Planetarium at Ohio State
 * 2025-present: Representative of School of Earth Sciences at the Sloan Center for Systemic Change Graduate Advisory Group
 * 2023–2024: Member of Diversity, Equity, and Inclusion Committee, School of Earth Science, The Ohio State University
 * 2020-2022: Director of *Yarigaran*, Sharif University Of Technology
@@ -75,6 +85,7 @@ Languages
 
 Certificates
 ======
+* **2025 Sagan Exoplanet Summer Workshop:** Silver Jubilee: Exoplanet Demographics
 * **Code/Astro 2024:** Certificate of Completion
 * **2024 Sagan Exoplanet Summer Workshop:** Advances in Direct Imaging: From Young Jupiters to Habitable Earths
 
