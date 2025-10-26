@@ -42,14 +42,6 @@ Research Experience
   * *REBOUNDX Collisional Fragmentation Module*
     * Developing a collision prescription in the open-source package [REBOUNDx](https://github.com/dtamayo/reboundx), an extension to the N-body code [REBOUND](https://github.com/hannorein/rebound)
     * This module accounts for various collision outcomes, such as fragmentation and hit-and-run events
-<!--
-  * *Small Planets Demographics*
-    * Making a comprehensive list of highly dense and Iron-rich planets by comparing them to models of rocky Earth-like planets (e.g. ExoPlex) with various core-mass fractions and compositions
-    * Using archival data and exoplanet fitting tools such as EXOFASTv2 to obtain best mass and radius measurements
-* 2021–2023: Undergraduate Researcher, Sharif University of Technology
-  * *Simulation of two-phase fluid flow in Oscillating Water Columns with ANSYS FLUENT*
-    * Numerical Simulation of air and water flow in Oscillating Water Columns, which are a type of wave energy converter. Investigated the different column geometry affecting the efficiency of OWCs.
--->
 
 Oral Presentations and Talks
 =====
