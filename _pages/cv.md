@@ -45,12 +45,12 @@ Research Experience
 
 Oral Presentations and Talks
 =====
-* 2025:  Great Lakes Exoplanet Area Meeting (GLEAM), University of Wisconsin-Madison, Madison, WI
+* 2025:  Great Lakes Exoplanet Area Meeting (GLEAM), University of Wisconsin-Madison (Madison, WI)
     * How Did Mercury Get Its Big Iron Heart?
 
 Poster Presentations
 =====
-* 2025: Sagan Summer Workshop, California Institute of Technology, Pasadena, CA
+* 2025: Sagan Summer Workshop, California Institute of Technology (Pasadena, CA)
 
 Teaching Experience
 ======
