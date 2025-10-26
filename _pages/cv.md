@@ -23,10 +23,7 @@ Publications
 ======
 * **Tajer, H.**, Wang, J., *et al.* (2025). “Forging Iron Hearts: Exploring Pathways to Form Mercury-like Planets via N-body Simulations.” *In prep.*
 * **Tajer, H.**, Rein, H., Lu, T., *et al.* (2025). “Collisional Fragmentation Module in REBOUNDx” *In prep.*
-* Lu, T., **Tajer, H.**, Hernandez, D. M., *et al.* (2025).  
-  “Collisional Fragmentation Support in TRACE.”  
-  *Research Notes of the American Astronomical Society*, **9**(5), 110.  
-  [https://doi.org/10.3847/2515-5172/add525](https://doi.org/10.3847/2515-5172/add525)
+* Lu, T., **Tajer, H.**, Hernandez, D. M., *et al.* (2025).  “Collisional Fragmentation Support in TRACE.”  *Research Notes of the American Astronomical Society*, **9**(5), 110.  [https://doi.org/10.3847/2515-5172/add525](https://doi.org/10.3847/2515-5172/add525)
 
 
 Research Experience
@@ -56,8 +53,12 @@ Research Experience
 
 Oral Presentations and Talks
 =====
-* 2025:  Great Lakes Exoplanet Area Meeting (GLEAM), University of Wisconsin-Madison
+* 2025:  Great Lakes Exoplanet Area Meeting (GLEAM), University of Wisconsin-Madison, Madison, WI
     * How Did Mercury Get Its Big Iron Heart?
+
+Poster Presentations
+=====
+* 2025: Sagan Summer Workshop, California Institute of Technology, Pasadena, CA
 
 Teaching Experience
 ======
