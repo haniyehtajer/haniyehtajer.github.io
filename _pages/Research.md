@@ -43,6 +43,13 @@ For a uniform initial CMF distribution, our results indicate that although erosi
 If you are interested in this work, checkout [my paper!](https://arxiv.org/abs/2511.01842)
 
 
+REBOUNDx Collision Module
+----
+[REBOUNDx](https://reboundx.readthedocs.io/en/latest/) is an extension to the N-body code [REBOUND](https://rebound.readthedocs.io/en/latest/). We are developing a comprehensive collision module within REBOUNDx, based on the collision prescriptions derived from hydrodynamic simulations (see [Leinhardt and Stewart 2012](https://iopscience.iop.org/article/10.1088/0004-637X/745/1/79)). This module will allow users to track the composition of particles as they collide and evolve into planets. The outcome of a collision can vary based on the impact velocity, the mass of particles and the angle of the impact. This outcome might be merging, different types of erosion, or particles remaining intact. 
+
+This is an ongoing project, so keep an eye out for the paper, which is expected to come out soon!
+
+
 
 <!--
 Exo-Mercury detection
