@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in Astronomy at the Ohio State University, and a LSST Discovery Alliance Data Science Fellow. I work on multiple different things, from exoplanets to galaxies!
+I'm a PhD student in Astronomy at the Ohio State University, and a LSST Discovery Alliance Data Science Fellow. I work on multiple different things, from galaxies to exoplanets!
 
 Research
 ====
@@ -21,4 +21,4 @@ Biography
 ====
 I graduated with a degree in Mechanical Engineering in 2023, with a minor in Philosophy, from Sharif University of Technology in Tehran, Iran. I made a giant leap into Astronomy in graduate school, and am enjoying it to the fullest by working on multiple projects. 
 
-In my free time, I mostly climb rocks (and plastic holds), but I also enjoy backpacking and hiking, biking, running, reading, watching movies, and spending time with my friends.
+In my free time, I mostly run and climb rocks (and plastic holds), but I also enjoy backpacking and hiking, biking, and reading.
