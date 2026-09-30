@@ -11,9 +11,9 @@ I'm a PhD student in Astronomy at the Ohio State University, and a LSST Discover
 
 Research
 ====
-My exoplanet research is focused on formation pathways of Iron-rich, Mercury-like planets through N-body Simulations (advised by Dr. Ji Wang). I'm also working on developing comprehensive fragmentation and mantle-stripping modules in [REBOUNDx](https://github.com/dtamayo/reboundx). 
+I am mostly interested in using the Milky Way as a probe to understand galactic chemical and dynamical evolution. Some of the projects I am currently working on are: modeling metallicity-dependent yields for manganese, and using data-driven models to transfer chemical abundances from APOGEE to Gaia RVS spectra, getting ready for Gaia DR4. I am also interested in characterizing stellar streams using SDSS-V.
 
-On the galactic side, I am interested in Galactic Chemical Evolution and am currently working on modeling metallicity-dependent yields for manganese (advised by Dr. David Weinberg). 
+On the exoplanet side, my research is focused on formation pathways of Iron-rich, Mercury-like planets through N-body Simulations — [check out the paper!](https://arxiv.org/abs/2511.01842) I'm also working on developing a comprehensive collisional fragmentation module for [REBOUNDx](https://github.com/dtamayo/reboundx).
 
 If you are interested in learning more about my research, checkout [this webpage](https://haniyehtajer.github.io/research/) !
 

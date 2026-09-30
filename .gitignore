@@ -9,6 +9,7 @@ local/
 Gemfile.lock
 
 vendor
+.bundle
 
 # Ingore files created by npm
 node_modules
